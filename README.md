@@ -1,4 +1,4 @@
-# Freeport Disc Golf Club website
+# [Freeport Disc Golf Club website](https://fdgc.netlify.app/)
 
 This website was my capstone project at Fort Hays State University. I worked with a board member of the Freeport Disc Golf Club to create a website that they could use to advertise the club, and the sport of disc golf, to the community. It was designed to have responsive design to be easily viewed on smaller and larger screens.
 
